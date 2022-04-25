@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DiegoMedinaDenis
 - 👀 I’m interested in Data Analysis and Data Visualisation
 - 🌱 I’m currently learning Python
-- 📫 You can reach me at diegomedinadenis@gmail.com
+- 📫 You can reach me at diego@corderi.com
 
 
 <!---
